@@ -1,0 +1,8 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/liaomingyou/DSA/R12323007/6/main'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0x0, symBinAddr: 0x100003CE0, symSize: 0xB0 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _insert, symObjAddr: 0x0, symBinAddr: 0x100003CE0, symSize: 0xB0 }
+  - { offsetInCU: 0xA1, offset: 0xA1, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xB0, symBinAddr: 0x100003D90, symSize: 0x1B0 }
+...
