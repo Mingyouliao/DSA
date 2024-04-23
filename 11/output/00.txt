@@ -1,0 +1,51 @@
+1
+現在的deque的數量 0
+現在的max_deque 1
+
+Current Deque:
+
+3
+現在的deque的數量 0
+現在的max_deque 2
+
+Current Deque:
+
+現在的deque的數量 1
+現在的max_deque 2
+
+Current Deque:
+value 10 and begin_negative 3 and remain_0_to_current 3 find_treasure_index 3 
+
+現在的deque的數量 2
+現在的max_deque 2
+
+Current Deque:
+value 20 and begin_negative 13 and remain_0_to_current 13 find_treasure_index 3 
+value 10 and begin_negative 3 and remain_0_to_current 3 find_treasure_index 3 
+
+1
+現在的deque的數量 1
+現在的max_deque 1
+
+Current Deque:
+value 10 and begin_negative 3 and remain_0_to_current 3 find_treasure_index 3 
+
+2
+現在的deque的數量 1
+現在的max_deque 2
+
+Current Deque:
+value 10 and begin_negative 3 and remain_0_to_current 3 find_treasure_index 3 
+
+1
+現在的deque的數量 0
+現在的max_deque 1
+
+Current Deque:
+
+現在的deque的數量 1
+現在的max_deque 1
+
+Current Deque:
+value 30 and begin_negative 27 and remain_0_to_current 27 find_treasure_index 1 
+

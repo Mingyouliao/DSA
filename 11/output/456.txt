@@ -1,0 +1,137 @@
+
+2
+
+Current Deque:
+
+
+Current Deque:
+value 5 and begin_negative 4 and remain_0_to_current 4 find_treasure_index 2 
+
+value remaining is 4
+
+Current Deque:
+value 10 and begin_negative 9 and remain_0_to_current 9 find_treasure_index 2 
+
+4
+
+Current Deque:
+value 10 and begin_negative 9 and remain_0_to_current 9 find_treasure_index 2 
+
+
+Current Deque:
+value 15 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 4 
+value 10 and begin_negative 9 and remain_0_to_current 9 find_treasure_index 2 
+
+value remaining is 9
+
+Current Deque:
+value 20 and begin_negative 17 and remain_0_to_current 17 find_treasure_index 4 
+value 15 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 4 
+
+value remaining is 12
+
+Current Deque:
+value 40 and begin_negative 37 and remain_0_to_current 37 find_treasure_index 4 
+value 20 and begin_negative 17 and remain_0_to_current 17 find_treasure_index 4 
+
+-1
+
+Current Deque:
+value 40 and begin_negative 37 and remain_0_to_current 37 find_treasure_index 4 
+value 20 and begin_negative 17 and remain_0_to_current 17 find_treasure_index 4 
+
+2
+
+Current Deque:
+value 20 and begin_negative 17 and remain_0_to_current 17 find_treasure_index 4 
+
+value remaining is 17
+
+Current Deque:
+value 10 and begin_negative 9 and remain_0_to_current 9 find_treasure_index 2 
+
+1
+
+Current Deque:
+value 10 and begin_negative 9 and remain_0_to_current 9 find_treasure_index 2 
+
+
+Current Deque:
+value 2 and begin_negative 2 and remain_0_to_current -2 find_treasure_index 1 
+value 10 and begin_negative 9 and remain_0_to_current 9 find_treasure_index 2 
+
+value remaining is 9
+
+Current Deque:
+value 3 and begin_negative 0 and remain_0_to_current -1 find_treasure_index 1 
+value 2 and begin_negative 2 and remain_0_to_current -2 find_treasure_index 1 
+
+value lost at 2
+
+Current Deque:
+value 1 and begin_negative 2 and remain_0_to_current -3 find_treasure_index 1 
+value 3 and begin_negative 0 and remain_0_to_current -1 find_treasure_index 1 
+
+value lost at 0
+
+Current Deque:
+value 4 and begin_negative 0 and remain_0_to_current 0 find_treasure_index 1 
+value 1 and begin_negative 2 and remain_0_to_current -3 find_treasure_index 1 
+
+3
+
+Current Deque:
+value 4 and begin_negative 0 and remain_0_to_current 0 find_treasure_index 1 
+value 1 and begin_negative 2 and remain_0_to_current -3 find_treasure_index 1 
+
+
+Current Deque:
+value 10 and begin_negative 2 and remain_0_to_current 2 find_treasure_index 3 
+value 4 and begin_negative 0 and remain_0_to_current 0 find_treasure_index 1 
+value 1 and begin_negative 2 and remain_0_to_current -3 find_treasure_index 1 
+
+value lost at 2
+
+Current Deque:
+value 20 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 3 
+value 10 and begin_negative 2 and remain_0_to_current 2 find_treasure_index 3 
+value 4 and begin_negative 0 and remain_0_to_current 0 find_treasure_index 1 
+
+value remaining is 0
+
+Current Deque:
+value 30 and begin_negative 22 and remain_0_to_current 22 find_treasure_index 3 
+value 20 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 3 
+value 10 and begin_negative 2 and remain_0_to_current 2 find_treasure_index 3 
+
+value remaining is 2
+
+Current Deque:
+value 40 and begin_negative 32 and remain_0_to_current 32 find_treasure_index 3 
+value 30 and begin_negative 22 and remain_0_to_current 22 find_treasure_index 3 
+value 20 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 3 
+
+1
+
+Current Deque:
+value 30 and begin_negative 22 and remain_0_to_current 22 find_treasure_index 3 
+value 20 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 3 
+
+2
+
+Current Deque:
+value 30 and begin_negative 22 and remain_0_to_current 22 find_treasure_index 3 
+value 20 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 3 
+
+0
+
+Current Deque:
+value 30 and begin_negative 22 and remain_0_to_current 22 find_treasure_index 3 
+value 20 and begin_negative 12 and remain_0_to_current 12 find_treasure_index 3 
+
+value remaining is 12
+
+Current Deque:
+value 99 and begin_negative 99 and remain_0_to_current 99 find_treasure_index 0 
+value 30 and begin_negative 22 and remain_0_to_current 22 find_treasure_index 3 
+

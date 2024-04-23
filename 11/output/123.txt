@@ -1,0 +1,20 @@
+2
+value remaining is 4
+4
+value remaining is 9
+value remaining is 12
+-1
+2
+value remaining is 17
+1
+value remaining is 9
+value lost at 2
+value lost at 0
+3
+value lost at 2
+value remaining is 0
+value remaining is 2
+1
+2
+0
+value remaining is 12

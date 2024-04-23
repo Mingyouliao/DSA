@@ -1,0 +1,7 @@
+1
+2
+3
+4
+value remaining is 5
+3
+value lost at 0
